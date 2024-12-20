@@ -1,5 +1,5 @@
-const contentLetterSrart_actived = "Click vào đây nè Huỳnnn ✧\⁠\⁠(⁠>⁠o⁠<⁠)⁠ﾉ⁠✧" 
-const mainContentLetter = "  Do không có thời gian nên mình chỉ làm được thế này thôi. Mình cũng chả biết nói gì chỉ chúc bạn mãi xinh giá à nhầm xinh gái nè, học giỏi nè, cứ ẵm học bổng đều đều và có một ngày sinh nhật vui vẻ nha ❤.〜(⁠◍⁠•⁠ᴗ⁠•⁠◍⁠)⁠〜 Chúc bạn tất cả!"
+const contentLetterSrart_actived = "Click vào đây nè ... ✧\⁠\⁠(⁠>⁠o⁠<⁠)⁠ﾉ⁠✧" 
+const mainContentLetter = " ❤.〜(⁠◍⁠•⁠ᴗ⁠•⁠◍⁠)⁠〜 Chúc bạn tất cả!"
 
 const backgroundImages = [
     "./img/bgr/bgr1.jpg",
